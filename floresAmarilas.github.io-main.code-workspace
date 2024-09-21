@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Flores-Amarillas-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "floresAmarilas.github.io-main"
+	}
+}
